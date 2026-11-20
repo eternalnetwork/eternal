@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="460" height="460" role="img" aria-label="eternal mark">
+  <rect width="400" height="400" fill="#0A0C10"/>
+  <circle cx="200" cy="200" r="186" fill="none" stroke="#2A303B" stroke-width="3" stroke-dasharray="2 14.23"/>
+  <circle cx="200" cy="200" r="168" fill="none" stroke="#161A22" stroke-width="2"/>
+  <path d="M200,200 C160,140 80,140 80,200 C80,260 160,260 200,200" fill="none" stroke="#F5B841" stroke-width="14" stroke-linecap="round"/>
+  <path d="M200,200 C240,140 320,140 320,200 C320,260 240,260 200,200" fill="none" stroke="#4FD1B5" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="125" cy="155" r="10" fill="#0A0C10" stroke="#F5B841" stroke-width="6"/>
+  <circle cx="80" cy="200" r="10" fill="#0A0C10" stroke="#F5B841" stroke-width="6"/>
+  <circle cx="125" cy="245" r="10" fill="#0A0C10" stroke="#F5B841" stroke-width="6"/>
+  <circle cx="275" cy="155" r="10" fill="#0A0C10" stroke="#4FD1B5" stroke-width="6"/>
+  <circle cx="320" cy="200" r="10" fill="#0A0C10" stroke="#4FD1B5" stroke-width="6"/>
+  <circle cx="275" cy="245" r="10" fill="#0A0C10" stroke="#4FD1B5" stroke-width="6"/>
+  <circle cx="200" cy="200" r="22" fill="#0A0C10" stroke="#ECE8DF" stroke-width="5"/>
+  <circle cx="200" cy="200" r="11" fill="#ECE8DF"/>
+</svg>
